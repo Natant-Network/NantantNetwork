@@ -1,0 +1,28 @@
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: orange;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.header {
+  padding: .000000000000000000005px;
+  text-align: Center;
+  background: black;
+  color: white;
+  font-size: 30px;
+}
